@@ -6,7 +6,7 @@
 		rhyme scheme.]
 
 
-**Presentation:** https://docs.google.com/presentation/d/1gc8xoBHNAXsi5R72WOZ7wu9Et15qDCK0Ye6llba5naY/edit?usp=sharing
+**Presentation:** https://docs.google.com/presentation/d/1gc8xoBHNAXsi5R72WOZ7wu9Et15qDCK0Ye6llba5naY
 
 **Video** : https://drive.google.com/file/d/11Kmt_7jEcn2gBO9zvgHMfl0P_2TlChXG/view?usp=drivesdk
 
