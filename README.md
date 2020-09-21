@@ -181,7 +181,7 @@ https://drive.google.com/file/d/1b590zlgyIWbOoI_EXzjq2Zc-ZDKUgDAa/view?usp=shari
 -------------------------------------------------------------------------
 8] _Grade test:_
 	Readability test --  Flesch Kincaid Grade Level
-	here are the 10 randomanly generated sonnet from the created model, 
+	10 randomanly generated sonnet are taken from the created model, 
 	Flesch Kincaid Grade Level test is done on these generated sonnets and 
 	the result of 43.28 is obtained which best suits the property of sonnet.
 
