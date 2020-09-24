@@ -19,6 +19,8 @@
       <div class="container hh">
         <h1 class="display-4 hh">Sonnet generator</h1>
         <p class="lead">A sonnet is a moment's monument,Memorial from the Soul's eternity.</p>
+         <h5>Ada  Lovelace  Celebrations</h5>
+ <h3>Canara  Engineering  College</h3>
       </div>
     </div>
 
@@ -35,13 +37,23 @@
         <span class="sr-only">Loading...</span>
           <br>
       </div>
-      <form  action="data" method="post">
+	  
+	  
+	  
+	  <form  action="data" method="post">
         {% csrf_token %}
         {% for i in op %}
-          <p class="poem" >{{ i }}</p>
+        
+		  <p class="poem" >{{ i }}</p>
+		  
         {% endfor %}
         <br>
+		<input type="text" name="name" id="inp" size="50">
+		<h4>Please provide the First Line of Input</h4>
+		 <h6>(atleast 25 characters)</h6>
         <input id="sub" type="submit" name="" class="btn btn-dark " value="Generate" onclick="setTimeout(on, 3)" >
+		<h6>If first line is given, Sonnet will be based on that</h6>
+		<h6>Else, A random sonnet will be generated</h6>
       </form>
       <br>
   </div>
@@ -53,11 +65,11 @@
 
 
 
-
 <style>
   .jumbotron{
   background-image: url({% static 'images/aaa.jpg' %});
   background-repeat: no-repeat;
+  background-size: cover;
 }
 .b{
 text-align: center;
