@@ -113,7 +113,9 @@ https://jupyter.org/install
 			
 https://colab.research.google.com/drive/11KAKfFbAmxbb1Ge6P9N02otFqp4GywgV?usp=sharing
 
-
+		4] 2 types are possible:
+			--> generation of a sonet based on first line input
+			--> generation of random sonnect
 ------------------------------------------------------------------------
 
 
